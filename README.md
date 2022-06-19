@@ -11,7 +11,7 @@ cmake --preset vs2022-windows -DCMAKE_PREFIX_PATH="<PATH_TO_QT_6.3.0>/msvc2019_6
 cmake --build build --config Release
 ```
 
-After you compile it, put the `qml` folder to Skyrims root directory.  
+After you compile it, put the `qml` folder and the `shaders.hlsl` file to Skyrims root directory.  
 Put the .dll to the `Data/SKSE/Plugins` folder.  
 Run `windeployqt . --qmlpath <PATH_TO_SKYRIM>/qml` from the same folder where the mods dll is.
 
