@@ -1,4 +1,5 @@
-Qt Quick overlay for Skyrim Special Edition.  
+## Qt Quick overlay for Skyrim Special Edition.  
+
 This is a proof of concept and not a finished application.  
 Wasn't tested too much.  
 There is also no input handling.
